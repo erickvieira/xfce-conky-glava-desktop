@@ -1,2 +1,1 @@
-# xfce-conky-glava-desktop
-An awesome desktop settup for XFCE with Conky and Glava
+![](https://i.imgur.com/9g3yatj.gif)
